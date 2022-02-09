@@ -2,132 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e7a98d-9339-4fd4-ba17-15b0cc82961f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/user_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/ofri/user_details.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/ori/user_details.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/04m06KhJUuwe1Q487puIud.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/09bnoLaXqJi7naZtDXHIbh.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/0BFzNaeaNv4mahOzwZFGHK.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/0OGDSUpkvNqUsbmPCQz1T9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/0d2EBNZtasKFZOtbhBibjD.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/1EWnkL3u6vzLdWOUz3vyoY.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/1G9CB4gjIIjEI8tKx49FGt.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/1K3C3SnYGG76vmXMWnk77T.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/1NxIeR1RafuaQrlTdRxbwb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/1Y1kv5n86UzcV3dBkkAsSq.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/1huMzmb62wgHCK3cqRy9L3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/1lPoRKSgZHQAYXxzBsOQ7v.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/1sIhNlunCcOptsSOL72WLg.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/21PGhsdn8v8XSKmSq4leJ3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/2D78QqxtzgUukykeWwntPs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/2KJjOBX280F3hZZE1xO33O.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/2usyeZYdUHKlNHKDKgAYSo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/2xChdOg0PvxzHzE1BooUpI.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/2yQ7GNgp9gX7PDPGYBhRnk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/34GQP3dILpyCN018y2k61L.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/34d6ShNbcuMzFbLLz9RcB7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/36vxv3IT5mUH5rJB57r9kj.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/3G7L80rVrUNc13YSCOHhGq.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/3y7Mwv7UqhABQqsGlzSL6n.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/3yXLuyV0G2op91XliCCRWv.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/43wpzak9OmQfrjyksuGwp0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/4AQtxbh9BLct9Al6PotQlw.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/4OzXgERQxpLMFZpYrIDsHM.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/4ohPMPeZukCChC6xNJpeYx.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/4p0nwIgXcFn7Ghy0H9sQ7q.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/4sgYpkIASM1jVlNC8Wp9oF.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/4uG8q3GPuWHQlRbswMIRS6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/4xxc3KZwpLTj4If1KXWqTr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/50Zz8CkIhATKUlQMbHO3k1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/5DvWThv9KXSsyZPDyozM49.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/5IVtC2TqdD3mP7EQ1KCNRp.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/5lWYyzmUrpY1jrV31iA8Yn.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/5pLmJkIWM4Xd2YF4C5LWwZ.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/5y4rSQJbmDFsIoTCvT6vey.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/62U7xIHcID94o20Of5ea4D.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/64GtHitIwGfmQB4yE3Nc1I.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6FBfXFadCFlH5Y1GUZFqQR.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6RWrvfIB8WGLNwYN1SKvZA.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6UK6nFW9qDZP5qJQKsry3G.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6UornBmu7FEPziehukocoq.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6YKk4wlKdACRITGKmGnoIm.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6Z5kdNOhvZ7BXD40g5xggC.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6cN0HshabuRh8Vea9ULSKJ.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6hmmX5UP4rIvOpGSaPerV8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6reTSIf5MoBco62rk8T7Q1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6sKLAtOcG6qqAgXOV4whjH.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/6vC3YjRy755VljFSemBUu7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/77amQMA4o6PxWhSSGdTclZ.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/78bpIziExqiI9qztvNFlQu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/7AtxsQ9wWfUKZn4QVGN0bJ.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/7FhbgCrEBr2GlQlnb52GiS.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/7KZkFAtkse1rKL9HdFTCuh.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/7cGOqfU8TieqoOU5XY0CDH.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums/7nA0EdSRuxzUqkA7kMSer7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/0PFtn5NtBbbUNbU9EAmIWF.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/0oSGxfWSnnOXhD2fKuz2Gy.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/0rcuq0mzUaleXgXxuLFPPZ.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/0rvjqX7ttXeg3mTy8Xscbt.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/0xIUeWyN3fqugYcofU1uwL.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/0zFvzQ4P6i9vu7Q2Kmmi3m.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/17pbOSPIn3lmY0vHhOlKGL.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/1IAEef07H0fd9aA8aUHUlL.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/1PliqAiazZ7fUWok2vg2Ia.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/1PvbPOqIFfXgttsSsaM9bz.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/1SOCXWLgBvXDqNobiSnGM7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/1dfeR4HaWDbWqFHLkxsg1d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/1oTaLSazZlqH2azlemNZOm.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/1sVozq6X0qXArzROCJa208.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2MOEM2cDGyOzUf7LrBFuIG.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2S5hlvw4CMtMGswFtfdK15.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2a76fsDcTl6A43zwaFNPr4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2d0hyoQ5ynDBnkvAbJKORj.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2feDdbD5araYcm6JhFHHw7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2gOP5NE2e7HmeVRy8EKPx8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2iEvnFsWxR0Syqu2JNopAd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2l6M7GaS9x3rZOX6nDX3CM.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2pQd850SlcQYxzmSwsQYHS.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2wp6i8BxLF3UrF1J3LY4WC.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/2xiIXseIJcq3nG7C8fHeBj.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/39jFFncu6W0phhYK16Dp9g.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/3EOEK57CV77D4ovYVcmiyt.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/3JPKPnzWJGjccn8SnjwA5i.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/3MZsBdqDrRTJihTHQrO6Dq.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/3cDi1D2FHMVgljfdB1QVgr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/3gC0JIIgE2lK3yztam5ndm.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/3rzVtsul7Jt3BFcy0UhWgs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/4Uzm4t6wAufWqKP7ZgYLxF.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/4r63FhuTkUYltbVAg5TQnk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/4saB5ta3MrhGC4aYV0zF2r.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/4xOU852y5U5YPQe29uWPH5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/4zG8rBneMjXa6RadES2rUF.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/56oDRnqbIiwx4mymNEv7dS.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/58mf4oi8A6QRteZvdlpq2n.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/5BtHciL0e0zOP7prIHn3pP.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/5EgEUxXi9uTYYN4cQwmLPy.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/5WUlDfRSoLAfcVSX1WnrxN.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/5ypxebeHEIXjMtJb17uJlI.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/66jtNcSqBSNontUk1Apdam.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/6M2wZ9GZgrQXHCFfjv46we.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/6UReeaqNcjIfzIH13kTHKE.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/6moCgUmUrdoS86CnxxAMK1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/6pDRa5fS3myWSP0fpIUcNl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/6uQl3gu1AIXyvqCAxnc2q4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/71NBOcJ9lMeXqnbnya1z0x.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/73noq7TQFRfKKeynAhtCy6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/74ASZWbe4lXaubB36ztrGX.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/74XFHRwlV6OrjEM0A2NCMF.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/7Ln80lUS6He07XvHI8qqHH.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/7dOBabd5O4CvKrg4iriHTM.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/7oPftvlwr6VrsViSDV7fJY.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/7oPgCQqMMXEXrNau5vxYZP.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/7sG6GYc2AsX0HNOkVdGCO4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artists/metaData.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/extract_Data/fromJsonToObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_Data/fromJsonToObject.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metaData.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaData.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/search/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_functions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,17 +16,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/sporipy$main.coverage" NAME="main Coverage Results" MODIFIED="1644420682274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sporipy$main.coverage" NAME="main Coverage Results" MODIFIED="1644427532802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sporipy$fromJsonToObject.coverage" NAME="fromJsonToObject Coverage Results" MODIFIED="1644390755125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extract_Data" />
     <SUITE FILE_PATH="coverage/sporipy$album.coverage" NAME="album Coverage Results" MODIFIED="1644393774757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="136">
+              <caret line="50" column="65" lean-forward="true" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -155,22 +35,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user_login.py">
+        <entry file="file://$PROJECT_DIR$/search/search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="986">
+              <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user_functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="56" column="92" selection-start-line="56" selection-start-column="92" selection-end-line="56" selection-end-column="92" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users/ofri/playlists/ love songs.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-105" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users/lihi/user_details.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users/ofri/playlists/songs_to_love.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extract_Data/fromJsonToObject.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+            <state relative-caret-position="51">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -190,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/users/ori/user_details.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state>
+              <caret column="28" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -199,8 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/metaData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="68">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -231,14 +144,16 @@
         <option value="$PROJECT_DIR$/artists/2iEvnFsWxR0Syqu2JNopAd.json" />
         <option value="$PROJECT_DIR$/artists/metaData.csv" />
         <option value="$PROJECT_DIR$/albums/6reTSIf5MoBco62rk8T7Q1.json" />
-        <option value="$PROJECT_DIR$/metaData.py" />
-        <option value="$PROJECT_DIR$/search/search.py" />
         <option value="$PROJECT_DIR$/albums/try.json" />
-        <option value="$PROJECT_DIR$/extract_Data/fromJsonToObject.py" />
         <option value="$PROJECT_DIR$/users/ofri/user_details.csv" />
         <option value="$PROJECT_DIR$/users/ori/user_details.csv" />
-        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/search/search.py" />
         <option value="$PROJECT_DIR$/user_login.py" />
+        <option value="$PROJECT_DIR$/extract_Data/fromJsonToObject.py" />
+        <option value="$PROJECT_DIR$/users/lihi/user_details.csv" />
+        <option value="$PROJECT_DIR$/metaData.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/user_functions.py" />
       </list>
     </option>
   </component>
@@ -263,7 +178,12 @@
             <path>
               <item name="sporipy" type="b2602c69:ProjectViewProjectNode" />
               <item name="sporipy" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="extract_Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sporipy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sporipy" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -381,16 +301,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644389210916</updated>
-      <workItem from="1644389213713" duration="24850000" />
+      <workItem from="1644389213713" duration="31389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24850000" />
+    <option name="totallyTimeSpent" value="31389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1260" height="640" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -404,7 +323,7 @@
       <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.32874015" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32874015" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32874015" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3031496" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3996063" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -420,25 +339,6 @@
     <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/user_login.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/user_login.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="data" />
@@ -446,22 +346,11 @@
         <watch expression="os.path.exists(directory_name+'\\metaData.csv')" />
         <watch expression="filename is 'metaData.csv'" />
         <watch expression="filename != &quot;metaData.csv&quot;" />
+        <watch expression="self.get_songs_of_album(album_id=album.get('id'))" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/artists.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/track.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artists/0xIUeWyN3fqugYcofU1uwL.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artists/0zFvzQ4P6i9vu7Q2Kmmi3m.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/artists/1dfeR4HaWDbWqFHLkxsg1d.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -606,16 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search/search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/ofri/playlists/songs_i_hate.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-138" />
@@ -627,10 +506,24 @@
     <entry file="file://$PROJECT_DIR$/albums/78bpIziExqiI9qztvNFlQu.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/consolemenu/items/function_item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/ori/user_details.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/extract_Data/fromJsonToObject.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+        <state relative-caret-position="51">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -645,41 +538,57 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/users/ofri/playlists/songs_to_love.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/lihi/user_details.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4453" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/metaData.py">
+    <entry file="file://$PROJECT_DIR$/search/search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="986">
+          <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/users/ori/user_details.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/users/shahaf/user_details.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/user_login.py">
+    <entry file="file://$PROJECT_DIR$/metaData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="136">
+          <caret line="50" column="65" lean-forward="true" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/ofri/playlists/ love songs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="56" column="92" selection-start-line="56" selection-start-column="92" selection-end-line="56" selection-end-column="92" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

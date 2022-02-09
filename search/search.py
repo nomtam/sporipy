@@ -14,43 +14,49 @@ class search:
                 next(content)
                 for row in content:
                     if row: artists.append(row)  # if row is an empty list it will be false
-            if self.user_limit : return artists[:5]
-            else:return artists
+            if self.user_limit : print(artists[:5])
+            else:print(artists)
 
         except FileNotFoundError as e:
             raise e
 
-    def get_albums(self,artist_id):
+    def get_albums(self,artist_id=None):
+        if artist_id is None : artist_id = input("artist id to search:")
         try:
             with open('artists\\' + artist_id + '.json') as artist:
                 list_of_albums = json.load(artist)
-                if self.user_limit : return list_of_albums[:5]
-                else: return list_of_albums
+                if self.user_limit :
+                    print( list_of_albums[:5])
+                    return list_of_albums[:5]
+                else: print(list_of_albums);return list_of_albums
+
         except FileNotFoundError as e:
             raise e
 
-    def get_popular_songs(self,artist_id):
+    def get_popular_songs(self,artist_id=None):
+        if artist_id is None : artist_id = input("artist id to search:")
         all_songs = []
-        list_of_artists_albums = search.get_albums(artist_id)
+        list_of_artists_albums = self.get_albums(artist_id =artist_id)
 
         for album in list_of_artists_albums:
             try:
-                all_songs.extend(search.get_songs_of_album(album.get('id')))
+                all_songs.extend(self.get_songs_of_album(album_id=album.get('id')))
             except FileNotFoundError as e:
                 raise e
         sorted_songs = sorted(all_songs, key=lambda d: d['popularity'], reverse=True)
-        if self.user_limit:return sorted_songs[:5]
-        else: return sorted_songs
+        if self.user_limit: print(sorted_songs[:5])
+        else: print(sorted_songs)
 
-    def get_songs_of_album(self,album_id):
+    def get_songs_of_album(self,album_id=None):
+        if album_id is None : album_id = input("album id to search:")
         try:
             with open('albums\\' + album_id + '.json', 'r') as File:
                 list_of_all_songs_ids = json.load(File)
         except FileNotFoundError as e:
             raise e
         songs = self.create_list_of_songs(list_of_all_songs_ids)
-        if self.user_limit:return songs[:5]
-        else: return songs
+        if self.user_limit:print( songs[:5]); return songs[:5]
+        else: print(songs);return songs
 
     @staticmethod
     def create_list_of_songs(list_of_all_songs_ids):

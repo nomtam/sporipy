@@ -25,7 +25,7 @@ def createNewArtistFile(album, list_of_artists):
         addToFileList(album, unique_file_id)
 
 def addToFileList(add_to_list, unique_file_id,limit = False):
-    if os.path.exists(unique_file_id) != True:
+    if os.path.exists(unique_file_id) is False:
         with open(unique_file_id, 'w') as f:
             listObj = []
             listObj.append(add_to_list)
