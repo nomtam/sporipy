@@ -1,40 +1,47 @@
 import json
 import os
+
+import logging
+
 from user_functions import user_functions
 from metaData import metaData
 from extract_Data.fromJsonToObject import from_json_to_object
 from search.search import search
-
 from consolemenu import *
 from consolemenu.items import *
 
-
-def login():
-    username = input("username: ")
-    password =input("password: ")
-    details = user_functions.validation(username, password)
-    if details is None:
-        print("password or username is incorrect")
-    else:
-        print("succesfully entered system")
-        return user_functions(username, password, details[2], bool(details[3]))
-
-
 #metaData('artists')
-#metaData('songs')
+
 # Opening JSON file
 #for filename in os.listdir("songs"):
  #   from_json_to_object(os.path.join("songs",filename))
 
 #print(search().get_songs_of_album('1EWnkL3u6vzLdWOUz3vyoY'))
 
+Log_Format = "%(levelname)s %(asctime)s - %(message)s"
 
-result = int(input("1 - i am sign in, 0 - i am not sign in"))
-if result is 0: us = user_functions.sign_user()
-else:us = login()
+logging.basicConfig(filename = "my_logs.log",
+                    filemode = "a+",
+                    format = Log_Format,
+                    level = logging.ERROR)
 
-ser = search(us.limit)
+LOGGER = logging.getLogger()
 
+
+#Testing our Logger
+try:
+    result = int(input("1 - i am sign in, 0 - i am not sign in"))
+    if result is 0: us = user_functions.sign_user()
+    else:us = user_functions.login()
+except ValueError as e:
+    LOGGER.error("value error")
+    raise e
+
+try:
+    ser = search(us.limit)
+except AttributeError as e:
+    LOGGER.error("user name of password entered was incorrect")
+    raise e
 #us = login()
 #ser = search(us.limit)
 menu = ConsoleMenu("SPOTIPY <3", "adding,searching and creating staff on your music account the easiest way possible!")
@@ -64,6 +71,3 @@ menu.show()
 
 #us.add_to_playlist('2374M0fQpWi3dLnB54qaLX','songs_to_love')
 
-
-# returns JSON object as
-# a dictionary

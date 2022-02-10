@@ -1,2 +1,2 @@
-username,password,account_type,artist
-ori,123,preimum,false
+username,password,limited_account,artist
+ori,123,0,0

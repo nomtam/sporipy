@@ -1,22 +1,32 @@
 import json
 import logging
 import os
-
 from metaData import metaData
+import custom_exceptions
 
-logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s')
-
+Log_Format = "%(levelname)s %(asctime)s - %(message)s"
+logging.basicConfig(filename = "my_logs.log",
+                    filemode = "a+",
+                    format = Log_Format,
+                    level = logging.ERROR)
+LOGGER = logging.getLogger()
 
 def from_json_to_object(fileName):
-    f = open(fileName)
-    songs = json.loads(f.read())
-    createNewArtistFile(dict(songs).get('track').get('album'),
-                        dict(songs).get('track').get('artists'))
-    addSongToAlbumFile(dict(songs).get('track').get('album').get('id'),
-                       dict(songs).get('track').get('id'))
-  #  metaData.add_row_artists(songs.get('id'), songs.get('name'),'songs')
-    f.close()
-
+    try:
+        f = open(fileName)
+        songs = json.loads(f.read())
+        try:
+            createNewArtistFile(dict(songs).get('track').get('album'),
+                                dict(songs).get('track').get('artists'))
+            addSongToAlbumFile(dict(songs).get('track').get('album').get('id'),
+                                dict(songs).get('track').get('id'))
+        except custom_exceptions.InfoNotFoundOnFile:
+            LOGGER.error("the info on the file was not what expected")
+        finally:
+            f.close()
+    except FileNotFoundError as e:
+        LOGGER.error("file entered was inncorect")
+        raise e
 
 def createNewArtistFile(album, list_of_artists):
     for artists in list_of_artists:
@@ -25,16 +35,7 @@ def createNewArtistFile(album, list_of_artists):
         addToFileList(album, unique_file_id)
 
 def addToFileList(add_to_list, unique_file_id,limit = False):
-    if os.path.exists(unique_file_id) is False:
-        with open(unique_file_id, 'w') as f:
-            listObj = []
-            listObj.append(add_to_list)
-            json.dump(listObj, f, indent=4
-                      , separators=(',', ': '))
-            logging.info('added info to file')
-            logging.info('created file')
-
-    else:
+    if os.path.exists(unique_file_id):
         with open(unique_file_id, 'r') as fp:
             listObj = json.load(fp)
             listObj.append(add_to_list)
@@ -42,8 +43,17 @@ def addToFileList(add_to_list, unique_file_id,limit = False):
             with open(unique_file_id, 'w') as fp:
                 json.dump(listObj, fp, indent=4
                         , separators=(',', ': '))
-                logging.info('appended info to file')
+                LOGGER.info('appended info to file')
         else: print("BUY PREMIUM TO ADD MORE SONGS")
+
+    else:
+        with open(unique_file_id, 'w') as f:
+            listObj = []
+            listObj.append(add_to_list)
+            json.dump(listObj, f, indent=4
+                      , separators=(',', ': '))
+            LOGGER.info('added info to file')
+            LOGGER.info('created file')
 
 
 def addSongToAlbumFile(album_id, song_id):
