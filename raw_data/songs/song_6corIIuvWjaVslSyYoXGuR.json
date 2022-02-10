@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "6UK6nFW9qDZP5qJQKsry3G",
+            "name": "\u05e7\u05d5\u05d1\u05d9"
+        },
+        "artists": [
+            {
+                "id": "4zG8rBneMjXa6RadES2rUF",
+                "name": "HaDorbanim"
+            }
+        ],
+        "id": "6corIIuvWjaVslSyYoXGuR",
+        "name": "\u05dc\u05d1\u05d3\u05d5\u05e7 \u05dc\u05da \u05ea'\u05de\u05e0\u05d5\u05e2",
+        "popularity": 34,
+        "danceability": 0.698,
+        "energy": 0.858,
+        "acousticness": 0.0944,
+        "instrumentalness": 0.000282,
+        "valence": 0.856
+    }
+}

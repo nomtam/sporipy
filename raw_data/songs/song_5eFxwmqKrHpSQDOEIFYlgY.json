@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "4ohPMPeZukCChC6xNJpeYx",
+            "name": "One-X"
+        },
+        "artists": [
+            {
+                "id": "2xiIXseIJcq3nG7C8fHeBj",
+                "name": "Three Days Grace"
+            }
+        ],
+        "id": "5eFxwmqKrHpSQDOEIFYlgY",
+        "name": "Animal I Have Become",
+        "popularity": 68,
+        "danceability": 0.553,
+        "energy": 0.853,
+        "acousticness": 0.000684,
+        "instrumentalness": 0,
+        "valence": 0.506
+    }
+}

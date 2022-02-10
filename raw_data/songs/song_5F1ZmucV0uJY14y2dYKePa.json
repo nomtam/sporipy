@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "6YKk4wlKdACRITGKmGnoIm",
+            "name": "Nectar"
+        },
+        "artists": [
+            {
+                "id": "3MZsBdqDrRTJihTHQrO6Dq",
+                "name": "Joji"
+            }
+        ],
+        "id": "5F1ZmucV0uJY14y2dYKePa",
+        "name": "Sanctuary",
+        "popularity": 72,
+        "danceability": 0.552,
+        "energy": 0.638,
+        "acousticness": 0.387,
+        "instrumentalness": 0.00014,
+        "valence": 0.332
+    }
+}

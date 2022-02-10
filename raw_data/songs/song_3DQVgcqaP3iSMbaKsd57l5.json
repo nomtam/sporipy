@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "50Zz8CkIhATKUlQMbHO3k1",
+            "name": "Whatever People Say I Am, That's What I'm Not"
+        },
+        "artists": [
+            {
+                "id": "7Ln80lUS6He07XvHI8qqHH",
+                "name": "Arctic Monkeys"
+            }
+        ],
+        "id": "3DQVgcqaP3iSMbaKsd57l5",
+        "name": "I Bet You Look Good On The Dancefloor",
+        "popularity": 75,
+        "danceability": 0.535,
+        "energy": 0.948,
+        "acousticness": 0.00225,
+        "instrumentalness": 0,
+        "valence": 0.778
+    }
+}

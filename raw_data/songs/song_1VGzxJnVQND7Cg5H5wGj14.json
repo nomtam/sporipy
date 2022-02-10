@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "34GQP3dILpyCN018y2k61L",
+            "name": "BALLADS 1"
+        },
+        "artists": [
+            {
+                "id": "3MZsBdqDrRTJihTHQrO6Dq",
+                "name": "Joji"
+            }
+        ],
+        "id": "1VGzxJnVQND7Cg5H5wGj14",
+        "name": "YEAH RIGHT",
+        "popularity": 81,
+        "danceability": 0.672,
+        "energy": 0.588,
+        "acousticness": 0.619,
+        "instrumentalness": 0.241,
+        "valence": 0.204
+    }
+}

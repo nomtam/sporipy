@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "6vC3YjRy755VljFSemBUu7",
+            "name": "Run"
+        },
+        "artists": [
+            {
+                "id": "3MZsBdqDrRTJihTHQrO6Dq",
+                "name": "Joji"
+            }
+        ],
+        "id": "6p8eEdiZLKJH8tcjGZuNTK",
+        "name": "Run",
+        "popularity": 66,
+        "danceability": 0.447,
+        "energy": 0.72,
+        "acousticness": 0.0416,
+        "instrumentalness": 0.000297,
+        "valence": 0.362
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "6hmmX5UP4rIvOpGSaPerV8",
+            "name": "Tracy Chapman"
+        },
+        "artists": [
+            {
+                "id": "7oPgCQqMMXEXrNau5vxYZP",
+                "name": "Tracy Chapman"
+            }
+        ],
+        "id": "2M9ro2krNb7nr7HSprkEgo",
+        "name": "Fast Car",
+        "popularity": 79,
+        "danceability": 0.711,
+        "energy": 0.292,
+        "acousticness": 0.313,
+        "instrumentalness": 0,
+        "valence": 0.194
+    }
+}

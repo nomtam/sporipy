@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "2usyeZYdUHKlNHKDKgAYSo",
+            "name": "Phobia (Clean Version)"
+        },
+        "artists": [
+            {
+                "id": "5BtHciL0e0zOP7prIHn3pP",
+                "name": "Breaking Benjamin"
+            }
+        ],
+        "id": "0faXHILILebCGnJBPU6KJJ",
+        "name": "The Diary of Jane - Single Version",
+        "popularity": 76,
+        "danceability": 0.392,
+        "energy": 0.964,
+        "acousticness": 7.13e-05,
+        "instrumentalness": 0.0387,
+        "valence": 0.269
+    }
+}

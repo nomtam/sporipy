@@ -2,17 +2,203 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e7a98d-9339-4fd4-ba17-15b0cc82961f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/custom_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw_data/artists/oren.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system_starting_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/lihi/audio_profile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/lily/audio_profile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/ofri/audio_profile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/oren/audio_profile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/ori/audio_profile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/shahaf/audio_profile.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_Data/fromJsonToObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_Data/fromJsonToObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/04m06KhJUuwe1Q487puIud.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/04m06KhJUuwe1Q487puIud.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/09bnoLaXqJi7naZtDXHIbh.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/09bnoLaXqJi7naZtDXHIbh.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/0BFzNaeaNv4mahOzwZFGHK.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/0BFzNaeaNv4mahOzwZFGHK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/0OGDSUpkvNqUsbmPCQz1T9.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/0OGDSUpkvNqUsbmPCQz1T9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/0d2EBNZtasKFZOtbhBibjD.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/0d2EBNZtasKFZOtbhBibjD.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/1EWnkL3u6vzLdWOUz3vyoY.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/1EWnkL3u6vzLdWOUz3vyoY.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/1G9CB4gjIIjEI8tKx49FGt.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/1G9CB4gjIIjEI8tKx49FGt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/1K3C3SnYGG76vmXMWnk77T.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/1K3C3SnYGG76vmXMWnk77T.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/1NxIeR1RafuaQrlTdRxbwb.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/1NxIeR1RafuaQrlTdRxbwb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/1Y1kv5n86UzcV3dBkkAsSq.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/1Y1kv5n86UzcV3dBkkAsSq.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/1huMzmb62wgHCK3cqRy9L3.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/1huMzmb62wgHCK3cqRy9L3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/1lPoRKSgZHQAYXxzBsOQ7v.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/1lPoRKSgZHQAYXxzBsOQ7v.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/1sIhNlunCcOptsSOL72WLg.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/1sIhNlunCcOptsSOL72WLg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/21PGhsdn8v8XSKmSq4leJ3.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/21PGhsdn8v8XSKmSq4leJ3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/2D78QqxtzgUukykeWwntPs.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/2D78QqxtzgUukykeWwntPs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/2KJjOBX280F3hZZE1xO33O.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/2KJjOBX280F3hZZE1xO33O.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/2usyeZYdUHKlNHKDKgAYSo.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/2usyeZYdUHKlNHKDKgAYSo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/2xChdOg0PvxzHzE1BooUpI.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/2xChdOg0PvxzHzE1BooUpI.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/2yQ7GNgp9gX7PDPGYBhRnk.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/2yQ7GNgp9gX7PDPGYBhRnk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/34GQP3dILpyCN018y2k61L.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/34GQP3dILpyCN018y2k61L.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/34d6ShNbcuMzFbLLz9RcB7.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/34d6ShNbcuMzFbLLz9RcB7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/36vxv3IT5mUH5rJB57r9kj.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/36vxv3IT5mUH5rJB57r9kj.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/3G7L80rVrUNc13YSCOHhGq.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/3G7L80rVrUNc13YSCOHhGq.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/3y7Mwv7UqhABQqsGlzSL6n.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/3y7Mwv7UqhABQqsGlzSL6n.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/3yXLuyV0G2op91XliCCRWv.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/3yXLuyV0G2op91XliCCRWv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/43wpzak9OmQfrjyksuGwp0.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/43wpzak9OmQfrjyksuGwp0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/4AQtxbh9BLct9Al6PotQlw.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/4AQtxbh9BLct9Al6PotQlw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/4OzXgERQxpLMFZpYrIDsHM.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/4OzXgERQxpLMFZpYrIDsHM.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/4ohPMPeZukCChC6xNJpeYx.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/4ohPMPeZukCChC6xNJpeYx.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/4p0nwIgXcFn7Ghy0H9sQ7q.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/4p0nwIgXcFn7Ghy0H9sQ7q.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/4sgYpkIASM1jVlNC8Wp9oF.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/4sgYpkIASM1jVlNC8Wp9oF.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/4uG8q3GPuWHQlRbswMIRS6.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/4uG8q3GPuWHQlRbswMIRS6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/4xxc3KZwpLTj4If1KXWqTr.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/4xxc3KZwpLTj4If1KXWqTr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/50Zz8CkIhATKUlQMbHO3k1.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/50Zz8CkIhATKUlQMbHO3k1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/5DvWThv9KXSsyZPDyozM49.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/5DvWThv9KXSsyZPDyozM49.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/5IVtC2TqdD3mP7EQ1KCNRp.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/5IVtC2TqdD3mP7EQ1KCNRp.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/5lWYyzmUrpY1jrV31iA8Yn.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/5lWYyzmUrpY1jrV31iA8Yn.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/5pLmJkIWM4Xd2YF4C5LWwZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/5pLmJkIWM4Xd2YF4C5LWwZ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/5y4rSQJbmDFsIoTCvT6vey.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/5y4rSQJbmDFsIoTCvT6vey.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/62U7xIHcID94o20Of5ea4D.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/62U7xIHcID94o20Of5ea4D.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/64GtHitIwGfmQB4yE3Nc1I.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/64GtHitIwGfmQB4yE3Nc1I.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6FBfXFadCFlH5Y1GUZFqQR.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6FBfXFadCFlH5Y1GUZFqQR.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6RWrvfIB8WGLNwYN1SKvZA.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6RWrvfIB8WGLNwYN1SKvZA.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6UK6nFW9qDZP5qJQKsry3G.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6UK6nFW9qDZP5qJQKsry3G.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6UornBmu7FEPziehukocoq.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6UornBmu7FEPziehukocoq.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6YKk4wlKdACRITGKmGnoIm.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6YKk4wlKdACRITGKmGnoIm.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6Z5kdNOhvZ7BXD40g5xggC.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6Z5kdNOhvZ7BXD40g5xggC.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6cN0HshabuRh8Vea9ULSKJ.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6cN0HshabuRh8Vea9ULSKJ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6hmmX5UP4rIvOpGSaPerV8.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6hmmX5UP4rIvOpGSaPerV8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6reTSIf5MoBco62rk8T7Q1.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6reTSIf5MoBco62rk8T7Q1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6sKLAtOcG6qqAgXOV4whjH.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6sKLAtOcG6qqAgXOV4whjH.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/6vC3YjRy755VljFSemBUu7.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/6vC3YjRy755VljFSemBUu7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/77amQMA4o6PxWhSSGdTclZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/77amQMA4o6PxWhSSGdTclZ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/78bpIziExqiI9qztvNFlQu.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/78bpIziExqiI9qztvNFlQu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/7AtxsQ9wWfUKZn4QVGN0bJ.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/7AtxsQ9wWfUKZn4QVGN0bJ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/7FhbgCrEBr2GlQlnb52GiS.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/7FhbgCrEBr2GlQlnb52GiS.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/7KZkFAtkse1rKL9HdFTCuh.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/7KZkFAtkse1rKL9HdFTCuh.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/7cGOqfU8TieqoOU5XY0CDH.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/7cGOqfU8TieqoOU5XY0CDH.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/7nA0EdSRuxzUqkA7kMSer7.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/7nA0EdSRuxzUqkA7kMSer7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums/try.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/albums/try.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/0PFtn5NtBbbUNbU9EAmIWF.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/0PFtn5NtBbbUNbU9EAmIWF.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/0oSGxfWSnnOXhD2fKuz2Gy.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/0oSGxfWSnnOXhD2fKuz2Gy.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/0rcuq0mzUaleXgXxuLFPPZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/0rcuq0mzUaleXgXxuLFPPZ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/0rvjqX7ttXeg3mTy8Xscbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/0rvjqX7ttXeg3mTy8Xscbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/0xIUeWyN3fqugYcofU1uwL.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/0xIUeWyN3fqugYcofU1uwL.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/0zFvzQ4P6i9vu7Q2Kmmi3m.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/0zFvzQ4P6i9vu7Q2Kmmi3m.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/17pbOSPIn3lmY0vHhOlKGL.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/17pbOSPIn3lmY0vHhOlKGL.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/1IAEef07H0fd9aA8aUHUlL.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/1IAEef07H0fd9aA8aUHUlL.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/1PliqAiazZ7fUWok2vg2Ia.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/1PliqAiazZ7fUWok2vg2Ia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/1PvbPOqIFfXgttsSsaM9bz.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/1PvbPOqIFfXgttsSsaM9bz.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/1SOCXWLgBvXDqNobiSnGM7.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/1SOCXWLgBvXDqNobiSnGM7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/1dfeR4HaWDbWqFHLkxsg1d.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/1dfeR4HaWDbWqFHLkxsg1d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/1oTaLSazZlqH2azlemNZOm.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/1oTaLSazZlqH2azlemNZOm.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/1sVozq6X0qXArzROCJa208.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/1sVozq6X0qXArzROCJa208.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2MOEM2cDGyOzUf7LrBFuIG.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2MOEM2cDGyOzUf7LrBFuIG.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2S5hlvw4CMtMGswFtfdK15.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2S5hlvw4CMtMGswFtfdK15.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2a76fsDcTl6A43zwaFNPr4.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2a76fsDcTl6A43zwaFNPr4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2d0hyoQ5ynDBnkvAbJKORj.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2d0hyoQ5ynDBnkvAbJKORj.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2feDdbD5araYcm6JhFHHw7.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2feDdbD5araYcm6JhFHHw7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2gOP5NE2e7HmeVRy8EKPx8.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2gOP5NE2e7HmeVRy8EKPx8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2iEvnFsWxR0Syqu2JNopAd.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2iEvnFsWxR0Syqu2JNopAd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2l6M7GaS9x3rZOX6nDX3CM.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2l6M7GaS9x3rZOX6nDX3CM.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2pQd850SlcQYxzmSwsQYHS.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2pQd850SlcQYxzmSwsQYHS.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2wp6i8BxLF3UrF1J3LY4WC.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2wp6i8BxLF3UrF1J3LY4WC.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/2xiIXseIJcq3nG7C8fHeBj.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/2xiIXseIJcq3nG7C8fHeBj.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/39jFFncu6W0phhYK16Dp9g.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/39jFFncu6W0phhYK16Dp9g.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/3EOEK57CV77D4ovYVcmiyt.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/3EOEK57CV77D4ovYVcmiyt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/3JPKPnzWJGjccn8SnjwA5i.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/3JPKPnzWJGjccn8SnjwA5i.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/3MZsBdqDrRTJihTHQrO6Dq.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/3MZsBdqDrRTJihTHQrO6Dq.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/3cDi1D2FHMVgljfdB1QVgr.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/3cDi1D2FHMVgljfdB1QVgr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/3gC0JIIgE2lK3yztam5ndm.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/3gC0JIIgE2lK3yztam5ndm.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/3rzVtsul7Jt3BFcy0UhWgs.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/3rzVtsul7Jt3BFcy0UhWgs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/4Uzm4t6wAufWqKP7ZgYLxF.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/4Uzm4t6wAufWqKP7ZgYLxF.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/4r63FhuTkUYltbVAg5TQnk.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/4r63FhuTkUYltbVAg5TQnk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/4saB5ta3MrhGC4aYV0zF2r.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/4saB5ta3MrhGC4aYV0zF2r.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/4xOU852y5U5YPQe29uWPH5.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/4xOU852y5U5YPQe29uWPH5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/4zG8rBneMjXa6RadES2rUF.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/4zG8rBneMjXa6RadES2rUF.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/56oDRnqbIiwx4mymNEv7dS.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/56oDRnqbIiwx4mymNEv7dS.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/58mf4oi8A6QRteZvdlpq2n.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/58mf4oi8A6QRteZvdlpq2n.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/5BtHciL0e0zOP7prIHn3pP.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/5BtHciL0e0zOP7prIHn3pP.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/5EgEUxXi9uTYYN4cQwmLPy.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/5EgEUxXi9uTYYN4cQwmLPy.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/5WUlDfRSoLAfcVSX1WnrxN.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/5WUlDfRSoLAfcVSX1WnrxN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/5ypxebeHEIXjMtJb17uJlI.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/5ypxebeHEIXjMtJb17uJlI.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/66jtNcSqBSNontUk1Apdam.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/66jtNcSqBSNontUk1Apdam.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/6M2wZ9GZgrQXHCFfjv46we.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/6M2wZ9GZgrQXHCFfjv46we.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/6UReeaqNcjIfzIH13kTHKE.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/6UReeaqNcjIfzIH13kTHKE.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/6moCgUmUrdoS86CnxxAMK1.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/6moCgUmUrdoS86CnxxAMK1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/6pDRa5fS3myWSP0fpIUcNl.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/6pDRa5fS3myWSP0fpIUcNl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/6uQl3gu1AIXyvqCAxnc2q4.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/6uQl3gu1AIXyvqCAxnc2q4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/71NBOcJ9lMeXqnbnya1z0x.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/71NBOcJ9lMeXqnbnya1z0x.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/73noq7TQFRfKKeynAhtCy6.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/73noq7TQFRfKKeynAhtCy6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/74ASZWbe4lXaubB36ztrGX.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/74ASZWbe4lXaubB36ztrGX.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/74XFHRwlV6OrjEM0A2NCMF.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/74XFHRwlV6OrjEM0A2NCMF.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/7Ln80lUS6He07XvHI8qqHH.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/7Ln80lUS6He07XvHI8qqHH.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/7dOBabd5O4CvKrg4iriHTM.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/7dOBabd5O4CvKrg4iriHTM.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/7oPftvlwr6VrsViSDV7fJY.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/7oPftvlwr6VrsViSDV7fJY.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/7oPgCQqMMXEXrNau5vxYZP.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/7oPgCQqMMXEXrNau5vxYZP.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/7sG6GYc2AsX0HNOkVdGCO4.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/7sG6GYc2AsX0HNOkVdGCO4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/lily.json" beforeDir="false" afterPath="$PROJECT_DIR$/audio_profile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/metaData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/metaData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artists/oren.json" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/artists/lily.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/custom_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extract_Data/fromJsonToObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_data/fromJsonToObject.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metaData.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Metadata.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/search/search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_03DcpryHcONqKi2uKXK5Ow.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_086myS9r57YsLbJpU0TgK9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_09PZuKctf7D3RAdaegN7zu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_0C9jZPUv4SuaXkuEQw6L40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_0faXHILILebCGnJBPU6KJJ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_0oHTvb0EVeYTUc0zscZphb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_0rKtyWc8bvkriBthvHKY8d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_0xu3PasKYiRNedJOnRBkJA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_1K0Mvug9bSd7KqjAPK5CnG.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_1NcXVKZFIQd9J8Y74ls6Xp.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_1QxjdVgVrqRRuPM4T0dgWx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_1VGzxJnVQND7Cg5H5wGj14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_1bFSitBqVkOrZ5geYAHEKX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_1yjY7rpaAQvKwpdUliHx0d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_20rg6HNd837eX34TA5tEVf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_2374M0fQpWi3dLnB54qaLX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_2GCR5b8UkMN2QtBMtfMvZQ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_2M9ro2krNb7nr7HSprkEgo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_2MbgQKWhoii8bqsMBWWWgA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_2OvYRK5xu5APpAbLaB3l7b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_2cY3YDf9AQl2DuocD0JYf0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_2fuCquhmrzHpu5xcA1ci9x.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_2pMVkGu7SomhwZwufGOPda.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_2rUXZPyYkMvncJ7jkbOmd2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_348rUXIKEw4DYw7R0oIYNu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_3DQVgcqaP3iSMbaKsd57l5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_3HWzoMvoF3TQfYg4UPszDq.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_3MjrueDQKVr6xDDseZwhEd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_3RkQ3UwOyPqpIiIvGVewuU.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_3Sa4wFRcNP1uNzwQA6cVgS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_3mvVb3dFiHyXG86N3gVYja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_3o863oLzV4qj53EBCtEAqz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_3yWWNB1ESnafJRbTXOJ3sI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_406GxF9gnDjRwsy5wqLpOh.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_40zK7MICeyHNNWyOrUU0sC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_463CkQjx2Zk1yXoBuierM9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_4bHsxqR3GMrXTxEPLuK5ue.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_4iTXVDvJIcFtSqvshO4JPA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_54PKGOlUPA4NXGQYnWxz9K.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5DWZX4piXraq1IOr2a4sBL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5F1ZmucV0uJY14y2dYKePa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5RnhWaP5VD3eJN3J0chPmh.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5W9Qlj971vEzgfVHxiUCkT.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5X0UESDGqxNkFIbgtZU0sc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5bSY17Hl7P9ztiKCTyLz4a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5eFxwmqKrHpSQDOEIFYlgY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5kKme9GCKnjKWC16Lb8cER.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5rX6C5QVvvZB7XckETNych.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5xetBdYzklZ71hbHjXb4Zf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_5yvN1r8skR9fE5jqNgsCox.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_6J2R4mMoDfb5NQMDuV0nWq.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_6Ks2OC8Hydb60EiBqJdoiW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_6L89mwZXSOwYl76YXfX13s.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_6corIIuvWjaVslSyYoXGuR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_6hWXe5KsRygkMO5MOvk7W4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_6p8eEdiZLKJH8tcjGZuNTK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_75r8RynXHLGJPLw8CY87zh.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_7aewPE2qqi9OlnG4HSDZnO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_7f6Bkdh4flhzfeUcMeuBjY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/song_7jbmHNja5Ifm14GCKa3CFO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/userfunctions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users/lihi/user_details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/users/lihi/user_details.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/ofri/user_details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/users/ofri/user_details.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/ori/user_details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/users/ori/user_details.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/shahaf/user_details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/users/shahaf/user_details.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,36 +207,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/sporipy$main.coverage" NAME="main Coverage Results" MODIFIED="1644478532494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sporipy$main.coverage" NAME="main Coverage Results" MODIFIED="1644501807773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sporipy$fromJsonToObject.coverage" NAME="fromJsonToObject Coverage Results" MODIFIED="1644390755125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extract_Data" />
     <SUITE FILE_PATH="coverage/sporipy$album.coverage" NAME="album Coverage Results" MODIFIED="1644393774757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sporipy$audio_profile.coverage" NAME="audio_profile Coverage Results" MODIFIED="1644500780127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sporipy$tryout.coverage" NAME="tryout Coverage Results" MODIFIED="1644484547741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/search/search.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/userfunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/users/oren/playlists/missing home.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-290" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="98" selection-start-line="98" selection-end-line="98" />
+            <state relative-caret-position="240">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -59,33 +228,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom_exceptions.py">
+        <entry file="file://$PROJECT_DIR$/raw_data/albums/0OGDSUpkvNqUsbmPCQz1T9.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="6" selection-end-column="24" />
+            <state relative-caret-position="34">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/users/lily/user_details.csv">
+        <entry file="file://$PROJECT_DIR$/audio_profile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="40" selection-start-column="40" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/users/oren/user_details.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/metaData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+            <state relative-caret-position="-85">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -94,20 +249,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artists/oren.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artists/metaData.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/extract_Data/fromJsonToObject.py">
+        <entry file="file://$PROJECT_DIR$/custom_exceptions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="33" column="23" selection-start-line="33" selection-end-line="34" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system_starting_functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raw_data/songs/song_1NcXVKZFIQd9J8Y74ls6Xp.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extract_data/fromJsonToObject.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search/search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Metadata.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-165">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -143,21 +354,33 @@
         <option value="$PROJECT_DIR$/exeptions.py" />
         <option value="$PROJECT_DIR$/logging.py" />
         <option value="$PROJECT_DIR$/logging_setter.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/search/search.py" />
-        <option value="$PROJECT_DIR$/users/lihi/user_details.csv" />
         <option value="$PROJECT_DIR$/users/ofri/user_details.csv" />
         <option value="$PROJECT_DIR$/users/ori/user_details.csv" />
         <option value="$PROJECT_DIR$/users/shahaf/user_details.csv" />
-        <option value="$PROJECT_DIR$/extract_Data/fromJsonToObject.py" />
         <option value="$PROJECT_DIR$/users/lily/user_details.csv" />
-        <option value="$PROJECT_DIR$/custom_exceptions.py" />
         <option value="$PROJECT_DIR$/metaData.py" />
+        <option value="$PROJECT_DIR$/custom_exceptions.py" />
+        <option value="$PROJECT_DIR$/songs/song_0rKtyWc8bvkriBthvHKY8d.json" />
+        <option value="$PROJECT_DIR$/songs/song_0C9jZPUv4SuaXkuEQw6L40.json" />
+        <option value="$PROJECT_DIR$/songs/Metadata.csv" />
+        <option value="$PROJECT_DIR$/tryout.py" />
+        <option value="$PROJECT_DIR$/extract_Data/fromJsonToObject.py" />
         <option value="$PROJECT_DIR$/user_functions.py" />
+        <option value="$PROJECT_DIR$/users/lihi/user_details.csv" />
+        <option value="$PROJECT_DIR$/users/lihi/audio_profile.csv" />
+        <option value="$PROJECT_DIR$/users/hell/user_details.csv" />
+        <option value="$PROJECT_DIR$/audio_profile.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/Metadata.py" />
+        <option value="$PROJECT_DIR$/extract_data/fromJsonToObject.py" />
+        <option value="$PROJECT_DIR$/search/search.py" />
+        <option value="$PROJECT_DIR$/raw_data/albums/0OGDSUpkvNqUsbmPCQz1T9.json" />
+        <option value="$PROJECT_DIR$/system_starting_functions.py" />
+        <option value="$PROJECT_DIR$/userfunctions.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -175,6 +398,39 @@
               <item name="sporipy" type="b2602c69:ProjectViewProjectNode" />
               <item name="sporipy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sporipy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sporipy" type="462c0819:PsiDirectoryNode" />
+              <item name="extract_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sporipy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sporipy" type="462c0819:PsiDirectoryNode" />
+              <item name="raw_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sporipy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sporipy" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sporipy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sporipy" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sporipy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sporipy" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="oren" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sporipy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sporipy" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="oren" type="462c0819:PsiDirectoryNode" />
+              <item name="playlists" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -184,14 +440,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/raw_data" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ofri\PycharmProjects\sporipy\raw_data" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ofri\PycharmProjects\sporipy\users\shahaf" />
       <recent name="C:\Users\Ofri\PycharmProjects\sporipy\users\ori" />
-      <recent name="C:\Users\Ofri\PycharmProjects\sporipy" />
+      <recent name="C:\Users\Ofri\PycharmProjects\sporipy\users\oren" />
+      <recent name="C:\Users\Ofri\PycharmProjects\sporipy\users\ofri" />
+      <recent name="C:\Users\Ofri\PycharmProjects\sporipy\users\lily" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,6 +484,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/album.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="audio_profile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sporipy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/audio_profile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,9 +558,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tryout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sporipy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tryout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.audio_profile" />
+        <item itemvalue="Python.tryout" />
         <item itemvalue="Python.album" />
         <item itemvalue="Python.fromJsonToObject" />
       </list>
@@ -291,34 +600,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644389210916</updated>
-      <workItem from="1644389213713" duration="40401000" />
+      <workItem from="1644389213713" duration="57688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40401000" />
+    <option name="totallyTimeSpent" value="57688000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1260" height="640" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25101215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32874015" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49916667" weight="0.32874015" />
       <window_info anchor="bottom" id="Python Console" weight="0.32874015" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32874015" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50083333" side_tool="true" weight="0.32874015" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.32874015" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32874015" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3031496" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3996063" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30195382" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36056837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="SciView" weight="0.33360323" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -329,45 +638,6 @@
     <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/search/search.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/search/search.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/search/search.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/user_functions.py</url>
-          <line>95</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/user_functions.py</url>
-          <line>96</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/user_functions.py</url>
-          <line>98</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/user_functions.py</url>
-          <line>97</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="if self.user_limit" />
@@ -375,6 +645,8 @@
         <watch expression="bool(details[2])" />
         <watch expression="bool('False')" language="Python" />
         <watch expression="(song_id and playlist_name) is None" />
+        <watch expression="fileName" />
+        <watch expression="df2.get('energy')" />
       </configuration>
     </watches-manager>
   </component>
@@ -388,169 +660,96 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/artists/0rvjqX7ttXeg3mTy8Xscbt.json">
+    <entry file="file://$PROJECT_DIR$/raw_data/artists/oren.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/artists/4r63FhuTkUYltbVAg5TQnk.json">
+    <entry file="file://$PROJECT_DIR$/raw_data/artists/metaData.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/artists/4saB5ta3MrhGC4aYV0zF2r.json">
+    <entry file="file://$PROJECT_DIR$/raw_data/audio_features/audio_feature_03DcpryHcONqKi2uKXK5Ow.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/songs/song_5kKme9GCKnjKWC16Lb8cER.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/songs/song_5RnhWaP5VD3eJN3J0chPmh.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artists/4Uzm4t6wAufWqKP7ZgYLxF.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artists/5WUlDfRSoLAfcVSX1WnrxN.json">
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_0rKtyWc8bvkriBthvHKY8d.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/songs/song_5DWZX4piXraq1IOr2a4sBL.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/songs/song_5eFxwmqKrHpSQDOEIFYlgY.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/songs/song_5F1ZmucV0uJY14y2dYKePa.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/albums/3G7L80rVrUNc13YSCOHhGq.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/encodings/cp1252.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/json/decoder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="190">
+          <caret line="354" selection-start-line="354" selection-end-line="354" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/artists/74XFHRwlV6OrjEM0A2NCMF.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/albums/6reTSIf5MoBco62rk8T7Q1.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/albums/0BFzNaeaNv4mahOzwZFGHK.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artists/0oSGxfWSnnOXhD2fKuz2Gy.json">
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_09PZuKctf7D3RAdaegN7zu.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="-205" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_348rUXIKEw4DYw7R0oIYNu.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_086myS9r57YsLbJpU0TgK9.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_75r8RynXHLGJPLw8CY87zh.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_54PKGOlUPA4NXGQYnWxz9K.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_0xu3PasKYiRNedJOnRBkJA.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_1bFSitBqVkOrZ5geYAHEKX.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_3RkQ3UwOyPqpIiIvGVewuU.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1778" selection-start-line="1778" selection-end-line="1778" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/albums/0d2EBNZtasKFZOtbhBibjD.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/songs/metaData.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/ofri/playlists/song_i_like.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/songs/song_0C9jZPUv4SuaXkuEQw6L40.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/albums/77amQMA4o6PxWhSSGdTclZ.json">
+    <entry file="file://$PROJECT_DIR$/raw_data/audio_features/audio_feature_0C9jZPUv4SuaXkuEQw6L40.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="2" selection-end-column="1" />
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/albums/64GtHitIwGfmQB4yE3Nc1I.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/albums/50Zz8CkIhATKUlQMbHO3k1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/albums/36vxv3IT5mUH5rJB57r9kj.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/albums/34d6ShNbcuMzFbLLz9RcB7.json">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/albums/34GQP3dILpyCN018y2k61L.json">
+    <entry file="file://$PROJECT_DIR$/tryout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/albums/try.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/ofri/playlists/songs_i_hate.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artists/0PFtn5NtBbbUNbU9EAmIWF.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/albums/78bpIziExqiI9qztvNFlQu.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/consolemenu/items/function_item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/ofri/playlists/songs_to_love.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/ofri/playlists/ love songs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logging_setter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="15" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/my_logs.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/users/shahaf/user_details.csv">
+    <entry file="file://$PROJECT_DIR$/raw_data/artists/0oSGxfWSnnOXhD2fKuz2Gy.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/lily/user_details.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -561,20 +760,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/users/lihi/user_details.csv">
+    <entry file="file://$PROJECT_DIR$/users/oren/user_details.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/oren/playlists/missing home.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
+        <state relative-caret-position="-254" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/users/ofri/playlists/songs_to_love.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/shahaf/user_details.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -585,73 +785,183 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom_exceptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/lily/user_details.csv">
+    <entry file="file://$PROJECT_DIR$/users/lihi/user_details.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="40" selection-start-column="40" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/metaData.py">
+    <entry file="file://$PROJECT_DIR$/users/lihi/audio_profile.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+        <state relative-caret-position="17">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/lily/audio_profile.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/ofri/audio_profile.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/oren/audio_profile.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/ori/audio_profile.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_0faXHILILebCGnJBPU6KJJ.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/shahaf/audio_profile.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pandas/core/computation/scope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/Metadata.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pandas/io/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="706" selection-start-line="706" selection-end-line="706" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_0C9jZPUv4SuaXkuEQw6L40.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3362" selection-start-line="3362" selection-end-line="3362" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/hell/user_details.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/hell/audio_profile.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract_data/fromJsonToObject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/audio_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/artists/oren.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artists/metaData.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extract_Data/fromJsonToObject.py">
+    <entry file="file://$PROJECT_DIR$/custom_exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="33" column="23" selection-start-line="33" selection-end-line="34" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user_functions.py">
+    <entry file="file://$PROJECT_DIR$/Metadata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        <state relative-caret-position="391">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw_data/albums/0OGDSUpkvNqUsbmPCQz1T9.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/search/search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="114">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/users/oren/playlists/missing home.json">
+    <entry file="file://$PROJECT_DIR$/system_starting_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-290" />
+        <state relative-caret-position="114">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/users/oren/user_details.csv">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/raw_data/songs/song_1NcXVKZFIQd9J8Y74ls6Xp.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userfunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

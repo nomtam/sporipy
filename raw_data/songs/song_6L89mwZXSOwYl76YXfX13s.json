@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "4uG8q3GPuWHQlRbswMIRS6",
+            "name": "Dookie"
+        },
+        "artists": [
+            {
+                "id": "7oPftvlwr6VrsViSDV7fJY",
+                "name": "Green Day"
+            }
+        ],
+        "id": "6L89mwZXSOwYl76YXfX13s",
+        "name": "Basket Case",
+        "popularity": 82,
+        "danceability": 0.442,
+        "energy": 0.943,
+        "acousticness": 0.00293,
+        "instrumentalness": 8.71e-06,
+        "valence": 0.781
+    }
+}

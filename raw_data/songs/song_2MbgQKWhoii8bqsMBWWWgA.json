@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "09bnoLaXqJi7naZtDXHIbh",
+            "name": "Courage to Change"
+        },
+        "artists": [
+            {
+                "id": "5WUlDfRSoLAfcVSX1WnrxN",
+                "name": "Sia"
+            }
+        ],
+        "id": "2MbgQKWhoii8bqsMBWWWgA",
+        "name": "Courage to Change",
+        "popularity": 67,
+        "danceability": 0.307,
+        "energy": 0.606,
+        "acousticness": 0.0927,
+        "instrumentalness": 0,
+        "valence": 0.11
+    }
+}

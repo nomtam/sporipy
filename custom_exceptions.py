@@ -5,5 +5,7 @@ class InfoNotFoundOnFile(Exception):
 class DirectoryNotFound(Exception):
     pass
 
+
 class PasswordOrUserNameIncorrect(Exception):
     pass
+

@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "4sgYpkIASM1jVlNC8Wp9oF",
+            "name": "Paramore"
+        },
+        "artists": [
+            {
+                "id": "74XFHRwlV6OrjEM0A2NCMF",
+                "name": "Paramore"
+            }
+        ],
+        "id": "1yjY7rpaAQvKwpdUliHx0d",
+        "name": "Still into You",
+        "popularity": 83,
+        "danceability": 0.602,
+        "energy": 0.923,
+        "acousticness": 0.0098,
+        "instrumentalness": 0,
+        "valence": 0.765
+    }
+}

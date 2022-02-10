@@ -1,0 +1,22 @@
+{
+    "track": {
+        "album": {
+            "id": "1NxIeR1RafuaQrlTdRxbwb",
+            "name": "\u05d0\u05d4\u05d1\u05ea \u05d0\u05d9\u05e9 \u05d4\u05e4\u05d7"
+        },
+        "artists": [
+            {
+                "id": "1sVozq6X0qXArzROCJa208",
+                "name": "Boaz Banai"
+            }
+        ],
+        "id": "348rUXIKEw4DYw7R0oIYNu",
+        "name": "\u05db\u05dc \u05d4\u05e9\u05d1\u05d5\u05e2 \u05de\u05e8\u05d2\u05d9\u05e9 \u05db\u05de\u05d5 \u05e9\u05d1\u05ea",
+        "popularity": 41,
+        "danceability": 0.543,
+        "energy": 0.842,
+        "acousticness": 0.0986,
+        "instrumentalness": 0,
+        "valence": 0.3
+    }
+}
