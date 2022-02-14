@@ -1,3 +1,4 @@
+# CR: unused imports
 import json
 import csv
 import logging
@@ -20,16 +21,22 @@ class UserFunctions:
                  is_artist):
         self.username = username
         self.password = password
+        # CR: is_premium
         self.limit = limit
         self.is_artist = is_artist
 
     def add_to_playlist(self, song_id=None, playlist_name=None):
         if (song_id and playlist_name) is None:
+            # CR: ocp
             song_id = input("song id: ")
+            # CR: ocp
             playlist_name = input("playlist name: ")
         try:
+            # CR: config
+            # CR: put in a method too, get_songs_info(path)
             with open('raw_data\\songs\\song_' + song_id + '.json', 'r') as song:
                 song_info = json.load(song)
+                # CR: format()
             update_list_in_file(song_info, 'users\\' + self.username + '\\playlists\\' + playlist_name + '.json',
                                 limit=self.limit)
         except FileNotFoundError as e:

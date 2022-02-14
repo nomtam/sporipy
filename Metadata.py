@@ -2,7 +2,7 @@ import csv
 import logging
 import os
 import custom_exceptions
-
+# CR: same as on other places about logging
 Log_Format = "%(levelname)s %(asctime)s - %(message)s"
 logging.basicConfig(filename="my_logs.log",
                     filemode="a+",
@@ -12,7 +12,9 @@ LOGGER = logging.getLogger()
 
 
 class Metadata:
+    # CR: better practice is to check if None on headers
     def __init__(self, directory_name, header=['name', 'id']):
+        # CR: config
         if os.path.exists('raw_data\\'+directory_name + '\\Metadata.csv') is False:
             with open(directory_name + '\\Metadata.csv', 'x', newline="") as f:
                 writer = csv.writer(f)

@@ -1,3 +1,4 @@
+# CR: I am assuming you didn't finish this class so I am not reviewing it too much
 import csv
 import os
 import json
@@ -5,9 +6,12 @@ import json
 import pandas as pd
 
 from Metadata import Metadata
-
+# CR: missing empty line
+# CR: many unused vars.
 def update_user_audio_profile(song_id,user_preferences:list):
+    # CR: config
     songs_info = pd.read_csv('raw_data\\songs\\Metadata.csv')
+    # CR: format here too
     quer = 'id == "'+song_id+'"'
     df = pd.DataFrame(songs_info)
     newdf = songs_info.query(quer)
