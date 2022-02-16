@@ -18,7 +18,7 @@ LOGGER = logging.getLogger()
 def sign_up_user(user_details_header=['username', 'password', 'limited_account', 'artist']):
     # CR: what if I signed up using the API? SRP..
     username = input("enter new user name:")
-    # CR: If already decieded to use this artist 1/0. Why not use bool as below?
+    # CR: If already decided to use this artist 1/0. Why not use bool as below?
     is_artist = int(input("1 - am artists , 0 - not artist"))
     # CR: config
     if Path('users\\' + username).exists():
@@ -27,8 +27,9 @@ def sign_up_user(user_details_header=['username', 'password', 'limited_account',
             sign_up_user()
 
     else:
-        # CR: same as above
+        # CR: same as above. SRP
         password = input("enter password: ")
+        # CR: is_artist should be bool
         if is_artist is 1:
             # CR: is_premium = True...
             limit = 0
@@ -45,6 +46,7 @@ def create_new_artist(username):
     # CR: config
     with open('raw_data\\artists\\' + username + '.json', 'w') as artist:
         pass
+    # CR: config
     Metadata.add_new_info('artists', [username, username])
 
 
@@ -52,7 +54,10 @@ def create_new_artist(username):
 def initiate_audio_profile(username,
                            audio_features=['danceability', 'energy', 'acousticness', 'instrumentalness',
                                            'valence'], row=[0, 0, 0, 0, 0]):
+    # CR: config
     with open('users\\' + username + '\\audio_profile.csv', 'w', newline="") as user_details:
+        # CR: csv_writer?
+        # CR: srp. put it in a method
         csvwriter = csv.writer(user_details)
         csvwriter.writerow(audio_features)
         csvwriter.writerow(row)
@@ -66,23 +71,23 @@ def create_new_user_directory(username, user_info: list, user_details_header):
         csvwriter = csv.writer(user_details)
         csvwriter.writerow(user_details_header)
         csvwriter.writerow(user_info)
-    # CR: OCP comment as above
+    # CR: SRP + OCP comment as above
     print("created new user successfully")
     LOGGER.info("created new user successfully")
 
 
 def login():
-    # CR: OCP
+    # CR: OCP + SRP
     username = input("username: ")
     password = input("password: ")
     details = validation(username, password)
     if details is None:
-        # CR: ocp
+        # CR: ocp + SRP
         print("password or username is incorrect")
         LOGGER.info("user entered incorrect details")
         raise PasswordOrUserNameIncorrect
     else:
-        # CR: ocp
+        # CR: ocp + SRP
         print("succesfully entered system")
         LOGGER.info("user entered correct details")
         # CR: details[2], [3] is not really clear. Read the comment below about dataframes
@@ -94,6 +99,7 @@ def validation(username, password):
     path = Path('users\\' + username)
     if path.exists():
         try:
+            # CR: config
             with open('users\\' + username + '\\user_details.csv', encoding="utf8") as user_info:
                 content = csv.reader(user_info)
                 next(content)  # skip header

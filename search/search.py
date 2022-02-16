@@ -96,7 +96,8 @@ class Search:
             raise e
         songs = self.create_list_of_songs(songs_ids)
         if self.user_limit:
-            # CR: semicolon and also print comment
+            # CR: semicolon
+            # CR: why return and also print?
             print(songs[:5]);
             return songs[:5]
         else:
